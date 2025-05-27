@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ServicioImpresion_Consola": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
